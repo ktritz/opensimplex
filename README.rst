@@ -93,6 +93,7 @@ CREDITS
 - A Svensson - Python port and package author
 - CreamyCookie - Cleanup and optimizations
 - Owen Raccuglia - Test cases
+- Kevin Tritz - Numba optimization
 
 LICENSE
 ================================================================================
